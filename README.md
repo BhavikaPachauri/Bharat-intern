@@ -1,1 +1,1 @@
-I have craeted the NetFlix Homepage using HTML and CSS.
+I have created the NetFlix Homepage using HTML and CSS.
